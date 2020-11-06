@@ -1,6 +1,6 @@
 package fr.noctu.nucleon.plugin.api;
 
-public interface NucleaonModule {
+public interface NucleonModule {
     public String name();
     public int key();
 
