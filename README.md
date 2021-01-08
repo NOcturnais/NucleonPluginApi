@@ -1,2 +1,2 @@
 # NucleonPluginApi
-Plugin api to make addons for NucleonClient !
+[Lien de la documentation](https://github.com/NOcturnais/NucleonPluginApi/wiki/Wiki)
